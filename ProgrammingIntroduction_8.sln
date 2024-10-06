@@ -5,6 +5,10 @@ VisualStudioVersion = 25.0.1706.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgrammingIntroduction_8", "ProgrammingIntroduction_8\ProgrammingIntroduction_8.csproj", "{6D415B85-851E-4F5E-B368-235FE4667F27}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quadrant_Selection", "..\..\ISM6225-Code\Quadrant_Selection\Quadrant_Selection.csproj", "{B1B82BB5-CA99-4381-B4D9-6BEC1DB36C13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "..\ConsoleApp1\ConsoleApp1.csproj", "{08E92CD6-6817-4171-9C2D-C1A70D6567AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{6D415B85-851E-4F5E-B368-235FE4667F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D415B85-851E-4F5E-B368-235FE4667F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D415B85-851E-4F5E-B368-235FE4667F27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1B82BB5-CA99-4381-B4D9-6BEC1DB36C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1B82BB5-CA99-4381-B4D9-6BEC1DB36C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1B82BB5-CA99-4381-B4D9-6BEC1DB36C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1B82BB5-CA99-4381-B4D9-6BEC1DB36C13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08E92CD6-6817-4171-9C2D-C1A70D6567AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08E92CD6-6817-4171-9C2D-C1A70D6567AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08E92CD6-6817-4171-9C2D-C1A70D6567AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08E92CD6-6817-4171-9C2D-C1A70D6567AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
